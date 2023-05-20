@@ -22,3 +22,10 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+/JavaApplication2/nbproject/private/
+JavaApplication2/build.xml
+JavaApplication2/manifest.mf
+JavaApplication2/nbproject/build-impl.xml
+JavaApplication2/nbproject/genfiles.properties
+JavaApplication2/nbproject/project.properties
+JavaApplication2/nbproject/project.xml
